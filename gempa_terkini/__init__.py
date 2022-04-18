@@ -30,3 +30,6 @@ def tampilkan_data(result):
     print(f'lokasi {result["lokasi"]}')
     print(f'keterangan {result["keterangan"]}')
     print(f'dirasakan {result["dirasakan"]}')
+
+if __name__ == '__main__':
+    print('ini adalah package gempa terkini')
