@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 
 def ekstraksi_data():
     """
-    Tanggal :15 Februari 2022,
+    Tanggal :15 Februari 2022,232
     Waktu : 16:51:43 WIB
     magnitudo : 3.4
     kedalaman : 10 km
